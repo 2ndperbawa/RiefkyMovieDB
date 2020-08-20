@@ -1,4 +1,5 @@
-# RiefkyMovieDB
+# Project dipindahkan ke repository berikut:
+
+https://github.com/2ndperbawa/riefkythemoviedb/
 
 
-TheMovieDb.org Clone
